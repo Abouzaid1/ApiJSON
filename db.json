@@ -1,0 +1,53 @@
+{
+  "Projects": [],
+  "Peaple": [
+    {
+      "id": "5670b020-6874-444a-93d3-836418afd922",
+      "username": "Ahmed",
+      "projectsEnrolled": [],
+      "tasks": [],
+      "password": "Ahmed",
+      "fName": "sadf",
+      "lName": "sdf",
+      "email": "sdf@jkhgf"
+    },
+    {
+      "id": "f75ebdec-0cc2-4814-8b7e-2653ecac0ac8",
+      "username": "Maro",
+      "projectsEnrolled": [],
+      "tasks": [
+        {
+          "title": "asd",
+          "id": "96b9eb9f-26e3-4774-8a57-c656ad9cc354",
+          "taskWriter": "f75ebdec-0cc2-4814-8b7e-2653ecac0ac8",
+          "completed": false,
+          "startDate": "2023-09-14",
+          "endDate": "2023-09-22"
+        },
+        {
+          "title": "asd",
+          "id": "1074c715-faa7-4beb-a050-b9039d3fddb2",
+          "taskWriter": "f75ebdec-0cc2-4814-8b7e-2653ecac0ac8",
+          "completed": false,
+          "startDate": "2023-09-05",
+          "endDate": "2023-09-13"
+        }
+      ],
+      "password": "maro",
+      "fName": "Marwan",
+      "lName": "Hatem",
+      "email": "Marwan@gmail.com"
+    },
+    {
+      "id": "5dbb7c7e-c9bf-4ac4-ae83-803f878b9a44",
+      "username": "Abouzaid",
+      "projectsEnrolled": [],
+      "tasks": [],
+      "password": "L@8!NzDh8gRbU213213",
+      "fName": "sdf",
+      "lName": "sdf",
+      "email": "sdf"
+    }
+  ],
+  "tasks": []
+}
